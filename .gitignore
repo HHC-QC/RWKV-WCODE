@@ -1,0 +1,15 @@
+demo-training-prepare-9B.sh  
+demo-training-prepare-x070.sh
+demo.jsonl
+job.node.list
+/out/
+sbcast_log.txt   
+/TM3Blogsred/  
+Training_L40-D4096-x052-9B-4k-27.batch  
+/wandb/
+demo-training-prepare.sh	 
+demo-training-run.sh
+demo-training-prepare.sh
+rocm_624_p311.tar.gz
+
+
